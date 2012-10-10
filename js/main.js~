@@ -10,7 +10,8 @@ $(function()
 				$("#pagelet_ego_pane_w").remove();
 			
 				//Apps
-				$("#rightCol").remove();	
+				$("#rightCol").remove();
+	
 			}
 			
 			if(url("cuantarazon") || url("ascodevida"))
