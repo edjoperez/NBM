@@ -1,7 +1,7 @@
 {
   "name": "NBM Extension",
   "version": "0.1",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "description": "This extension clears ads  in certain websites views",
   "browser_action": {
     "default_icon": "rsc/icon.png",
